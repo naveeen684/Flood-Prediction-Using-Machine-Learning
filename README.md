@@ -1,2 +1,2 @@
-# Flood-Prediction-using-Machine-Learning
+# FloodPrediction
 Disaster Management
